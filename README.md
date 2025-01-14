@@ -1,8 +1,3 @@
-# A propos 
-//TODO
-
-
-
 # Sommaire :
 - Qui Suis-Je ?
 - Mes objectifs
@@ -17,27 +12,19 @@ Moi c'est Sofian, j'ai 20 ans et je suis en deuxième année de BUT Informatique
 Comme la plupart des personnes de ma génération, étant petit je jouais beaucoup aux jeux vidéos et j'aimais l'informatique mais j'aimais juste utiliser un ordinateur pour enrichir mes connaissances mais je ne savais pas du tout comment tout ça était conçu. Quand je suis arrivé en classe de 1ère, j'ai donc pris l'option NSI et j'ai découvert la programmation et depuis je suis passionné par ça. Je suis donc plus que motivé pour faire de lead développeur mon métier car j'aime mener une équipe et j'aimerais participer a la création de logiciels informatiques comme ceux qui m'ont fait aimer ce secteur.
 
 ## Mon parcours :
-Pour être la je suis actuellement, j'ai eu un parcours scolaire classique ( collège, lycée ). Puis en classe de première, j'ai trouvé une vraie motivation avec l'informatique et cela m'a poussé a faire toujours mieux, viser toujours plus haut comme le célèbre Elon Musk avec
-ses fusées et sa compagnie SpaceX.
+Pour être la je suis actuellement, j'ai eu un parcours scolaire classique ( collège, lycée ). Puis en classe de première, j'ai trouvé une vraie motivation avec l'informatique et cela m'a poussé a faire toujours mieux, viser toujours plus haut comme le célèbre.
+J'ai un baccalauréat général avec comme spécialités : Mathématiques et NSI.
 
 ## Mes qualités :
-Premièrement, j'ai une certaine capacité a m'exprimer avec chaleur
-ce qui crée habituellement une ambiance chaleureuse. Je sais aussi m'organiser sans rigidité en recherchant le calme et la sécurité.
+Premièrement, j'ai une certaine capacité a m'exprimer avec chaleur ce qui crée habituellement une ambiance chaleureuse. Je sais aussi m'organiser sans rigidité en recherchant le calme et la sécurité.
 Pour finir, je sais accepter les critiques constructives mais je sais rester imperturbable.
 
 # Mes objectifs : 
 
 ## Dans la vie : 
 
-Mon objectif principal dans la
-vie est l'épanouissement dans tout
-ce que je fais, ne jamais me lasser de
-ce que je fais dans la vie, c'est pourquoi
-dans le monde du travail, je n'aime pas la routine.
-J'aimerais participer activement dans des
-assosiations caritatives ainsi qu'à diverses autres
-actions faisant de moi un homme bienveillant car ce
-sentiments est extraordinaire.
+Mon objectif principal dans la vie est l'épanouissement dans tout ce que je fais, ne jamais me lasser de ce que je fais dans la vie, c'est pourquoi dans le monde du travail, je n'aime pas la routine.
+J'aimerais participer activement dans des assosiations caritatives ainsi qu'à diverses autres actions faisant de moi un homme bienveillant car ce sentiment est extraordinaire.
 
 ## Dans le monde professionnel : 
 
