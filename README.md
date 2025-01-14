@@ -2,9 +2,9 @@
 - Qui Suis-Je ?
 - Mes objectifs
 - Mes objectifs
-- Mes compétences Contact
-- Annexe
-
+- Mes compétences
+- Contact
+- 
 # Qui suis-je ? 
 Moi c'est Sofian, j'ai 20 ans et je suis en deuxième année de BUT Informatique à l'IUT du Limousin dans la ville de Limoges située en Haute-Vienne.
 
