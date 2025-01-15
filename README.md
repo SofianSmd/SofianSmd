@@ -4,7 +4,6 @@
 # Sommaire :
 - Qui Suis-Je ?
 - Mes objectifs
-- Mes objectifs
 - Mes compétences
 - Contact
 
