@@ -1,4 +1,4 @@
-<img src='https://www.google.com/url?sa=i&url=https%3A%2F%2Ffr.freepik.com%2Fvecteurs-libre%2Fbanniere-developpement-site-web_5467393.htm&psig=AOvVaw0klucm6PYt2O-TrVmODB26&ust=1737032860376000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCOi44efl94oDFQAAAAAdAAAAABAE'>
+<img src="https://i.ibb.co/PzBxSKW/banniere-developpement-site-web-33099-1687-jpg.jpg">
 
 
 # Sommaire :
